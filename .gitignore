@@ -22,11 +22,11 @@ Thumbs.db
 *.sbr
 obj/
 [Rr]elease*/
-Align/[Dd]ebug*/
+[Dd]ebug*/
 _ReSharper*/
 [Tt]est[Rr]esult*
 *.vssscc
 $tf*/
-Align.sdf
-Align.opensdf
+*.sdf
+*.opensdf
 ipch*/
