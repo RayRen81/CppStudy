@@ -1,0 +1,17 @@
+<RCC>
+  <qresource prefix="Qt484">
+    <file>Resources/icon/play.png</file>
+    <file>Resources/icon/clear.png</file>
+    <file>Resources/icon/copy.png</file>
+    <file>Resources/icon/cut.png</file>
+    <file>Resources/icon/find.png</file>
+    <file>Resources/icon/gotocell.png</file>
+    <file>Resources/icon/icon.png</file>
+    <file>Resources/icon/myappicon.png</file>
+    <file>Resources/icon/new.png</file>
+    <file>Resources/icon/open.png</file>
+    <file>Resources/icon/paste.png</file>
+    <file>Resources/icon/save.png</file>
+    <file>Resources/icon/TOON-XP Icons (V1c) Icon 67.png</file>
+  </qresource>
+</RCC>
