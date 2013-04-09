@@ -26,15 +26,23 @@ static void help()
         << endl;
 }
 
-int mainvideoio(int argc, char *argv[])
+int main(int argc, char *argv[])
 {
     help();
 
-    if (argc != 5)
+    argc = 5;
+	argv[1] = "video/Megamind.avi";
+	argv[2] = "video/Megamind_bugy.avi";
+	argv[3] = "10";
+	argv[4] = "5";
+
+	if (argc != 5)
     {
         cout << "Not enough parameters" << endl;
         return -1;
     }
+
+	
 
     stringstream conv;
 

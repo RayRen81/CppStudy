@@ -5,7 +5,7 @@
 using namespace cv;
 using namespace std;
 
-int main()
+int mained()
 {
 	//¶ÁÈëÍ¼Ïñ
 	Mat img = imread("sketch.bmp");
