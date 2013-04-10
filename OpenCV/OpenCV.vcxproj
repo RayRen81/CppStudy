@@ -70,7 +70,7 @@
     </ClCompile>
     <Link>
       <GenerateDebugInformation>true</GenerateDebugInformation>
-      <AdditionalLibraryDirectories>$(OPENCV244_DIR)\build\x64\vc10\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>$(OPENCV244_DIR)\build\x86\vc10\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
       <AdditionalDependencies>opencv_calib3d244d.lib;opencv_contrib244d.lib;opencv_core244d.lib;opencv_features2d244d.lib;opencv_flann244d.lib;opencv_gpu244d.lib;opencv_highgui244d.lib;opencv_imgproc244d.lib;opencv_legacy244d.lib;opencv_ml244d.lib;opencv_objdetect244d.lib;opencv_ts244d.lib;opencv_video244d.lib;%(AdditionalDependencies)</AdditionalDependencies>
       <ShowProgress>LinkVerbose</ShowProgress>
     </Link>
@@ -123,13 +123,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\ProgramsDev\opencv\opencv2.4.4\samples\cpp\tutorial_code\ImgProc\Morphology_1.cpp" />
     <ClCompile Include="backgroud.cpp" />
-    <ClCompile Include="C:\Users\Ray\Desktop\ORB_FREAK\ORB_FREAK\orb_freak.cpp" />
+    <ClCompile Include="CannyContourDetect.cpp" />
     <ClCompile Include="createImage.cpp" />
     <ClCompile Include="ErodeDilate.cpp" />
     <ClCompile Include="loadImage.cpp" />
     <ClCompile Include="ShowTemplateImage.cpp" />
+    <ClCompile Include="Smooth.cpp" />
     <ClCompile Include="video-input-psnr-ssim.cpp" />
   </ItemGroup>
   <ItemGroup>

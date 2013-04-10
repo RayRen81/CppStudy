@@ -18,28 +18,28 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="createImage.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="loadImage.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="C:\Users\Ray\Desktop\ORB_FREAK\ORB_FREAK\orb_freak.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="ShowTemplateImage.cpp">
+    <ClCompile Include="Smooth.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="backgroud.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="video-input-psnr-ssim.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\..\ProgramsDev\opencv\opencv2.4.4\samples\cpp\tutorial_code\ImgProc\Morphology_1.cpp">
+    <ClCompile Include="createImage.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="ErodeDilate.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="loadImage.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ShowTemplateImage.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="video-input-psnr-ssim.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CannyContourDetect.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

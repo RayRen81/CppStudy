@@ -29,12 +29,12 @@ int display_dst( int delay );
 /**
  * function main
  */
-int mainsmooth( void )
+int mainSmooth( void )
 {
   namedWindow( window_name, CV_WINDOW_AUTOSIZE );
 
   /// Load the source image
-  src = imread( "sketch.bmp", 1 );
+  src = imread( "x_66257740.jpg", 1 );
   if(src.empty()){
 	  cout << "File not found";  
 	  return -1;
